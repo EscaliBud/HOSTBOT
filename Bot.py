@@ -9,7 +9,7 @@ def send_welcome(message):
 
 
             key = types.InlineKeyboardMarkup()
-            b1 = types.InlineKeyboardButton(text='Channel', url='https://t.me/CodeLeak')
+            b1 = types.InlineKeyboardButton(text='Channel', url='https://t.me/InfinityHackersKE')
             b2 = types.InlineKeyboardButton(text='apis.red', url='https://apis.red')
             first = message.chat.first_name
 
