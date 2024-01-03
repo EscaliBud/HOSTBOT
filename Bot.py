@@ -1,6 +1,6 @@
 import telebot,random,os,requests
 from telebot import types
-bot = telebot.TeleBot('#Your Telegram Bot Token!')
+bot = telebot.TeleBot('6038988562:AAHvZRrs5nFA4QuapyRcFfZQteaKT4xEn9w')
 
 
 
