@@ -1,6 +1,6 @@
 import telebot
 from os import listdir, remove, makedirs, startfile, system;from random import choice;from telebot import types
-bot = telebot.TeleBot('#Telegram bot token here!')
+bot = telebot.TeleBot('6038988562:AAHvZRrs5nFA4QuapyRcFfZQteaKT4xEn9w')
 
 Max_Files_For_User = 6
 Black_Listed_Librarys = [' os', ',os', 'base64', 'input',
